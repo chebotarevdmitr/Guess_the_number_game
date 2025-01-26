@@ -1,0 +1,7 @@
+ как использовать                                 // how to use :
+  Скомпилируйте и запустите программу.           // Compile and run the program.
+  Введите ваше имя.                             // Enter your name.
+  Угадайте загаданное число, следуя подсказкам // Guess the hidden number by following the prompts
+  После победы ваше имя и количество попыток  //  After winning, your name and the number of attempts                                             
+  будут сохранены в файл  и вы               //  and you will see the high score table.
+  увидите таблицу рекордов.            
